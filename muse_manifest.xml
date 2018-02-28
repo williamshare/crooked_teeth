@@ -1,0 +1,348 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="williamshare.github.io" resolutions="1x,2x" timestamp="1519832895951">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="123519168" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4221802780" ref="index"/>
+    <file name="index.css" crc="3947660968" ref="index"/>
+    <file name="nomq_index.css" crc="79718185" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="farm-crop-u32637.png" crc="4130222599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32637_2x.png" crc="385863412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32639.png" crc="4280367459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32639_2x.png" crc="116658489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotpot.png" crc="4262044289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotpot_2x.png" crc="3896552235" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raw fish.png" crc="278683950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raw fish_2x.png" crc="4009917280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="4213159920" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mmexport1516805955773172x172.jpg" crc="306354157" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mmexport1516805955773_2x.jpg" crc="3824494489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow up-layer 1.png" crc="4004870458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow up-layer 1_2x.png" crc="4264625107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2.png" crc="4202964620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2_2x.png" crc="420138145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footer-u9976.png" crc="4044217017" ref="index"/>
+    <file name="braces-at-kids-dental.jpg" crc="354862634" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beaver1.jpg" crc="281595655" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beaver1_2x.jpg" crc="4066317593" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beaver2.jpg" crc="3829708956" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beaver2_2x.jpg" crc="158457852" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm1.jpg" crc="4080117794" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm1_2x.jpg" crc="428196584" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm2.jpg" crc="209370231" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm2_2x.jpg" crc="270119579" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm3.jpg" crc="399241314" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm3_2x.jpg" crc="14603188" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm4.png" crc="167805611" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm4_2x.png" crc="287255240" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rock hyrax 6-crop-u34650.jpg" crc="229224342" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="rock hyrax 6-crop-u34650_2x.jpg" crc="18070458" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="vs.png" crc="334434849" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vs_2x.png" crc="3789818592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u34839-6.png" crc="3811939692" ref="index"/>
+    <file name="u34839-6_2x.png" crc="379028920" ref="index"/>
+    <file name="footer.png" crc="21045996" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mmexport1516805955773.jpg" crc="3850201708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326372.png" crc="4130222599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32637_2x2.png" crc="385863412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326392.png" crc="4280367459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32639_2x2.png" crc="116658489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2125x25.png" crc="4202964620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2125x25_2x.png" crc="420138145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rock hyrax 6-crop-u346502.jpg" crc="229224342" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="rock hyrax 6-crop-u34650_2x2.jpg" crc="18070458" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="u34839-62.png" crc="3945935645" ref="index"/>
+    <file name="u34839-6_2x2.png" crc="237137709" ref="index"/>
+    <file name="mmexport1516805955773232x232.jpg" crc="4113457223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326373.png" crc="3896322899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32637_2x3.png" crc="385863412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326393.png" crc="4280367459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32639_2x3.png" crc="116658489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo3.png" crc="519532641" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_2x.png" crc="4213159920" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mmexport1516805955773163x163.jpg" crc="461752749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mmexport1516805955773163x163_2x.jpg" crc="419229116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rock hyrax 6-crop-u346503.jpg" crc="229224342" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="rock hyrax 6-crop-u34650_2x3.jpg" crc="18070458" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="u34839-63.png" crc="4237722157" ref="index"/>
+    <file name="u34839-6_2x3.png" crc="273875899" ref="index"/>
+    <file name="mmexport1516805955773225x225.jpg" crc="125607796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326374.png" crc="4130222599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32637_2x4.png" crc="385863412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326394.png" crc="4280367459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32639_2x4.png" crc="116658489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rock hyrax 6-crop-u346504.jpg" crc="229224342" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="rock hyrax 6-crop-u34650_2x4.jpg" crc="18070458" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="u34839-64.png" crc="336282838" ref="index"/>
+    <file name="u34839-6_2x4.png" crc="209951373" ref="index"/>
+    <file name="mmexport1516805955773201x201.jpg" crc="4035884764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326375.png" crc="4130222599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32637_2x5.png" crc="385863412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326395.png" crc="4280367459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32639_2x5.png" crc="116658489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="braces-at-kids-dental2.jpg" crc="4266409468" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="braces-at-kids-dental_2x.jpg" crc="354862634" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beaver1-u15561-fr.jpg" crc="3954893476" ref="index"/>
+    <file name="beaver1-u15561-fr_2x.jpg" crc="4171497303" ref="index"/>
+    <file name="beaver2-u15562-fr.jpg" crc="301707345" ref="index"/>
+    <file name="beaver2-u15562-fr_2x.jpg" crc="4038345409" ref="index"/>
+    <file name="rock hyrax 6-crop-u346505.jpg" crc="229224342" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="rock hyrax 6-crop-u34650_2x5.jpg" crc="18070458" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="u34839-65.png" crc="4003142537" ref="index"/>
+    <file name="u34839-6_2x5.png" crc="3921491505" ref="index"/>
+    <file name="mmexport1516805955773156x157.jpg" crc="210104011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326376.png" crc="4130222599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32637_2x6.png" crc="385863412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u326396.png" crc="4280367459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farm-crop-u32639_2x6.png" crc="116658489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raw fish-crop-u34682.png" crc="510968255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raw fish-crop-u34682_2x.png" crc="4091356707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mmexport1516805955773141x141.jpg" crc="4154349855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mmexport1516805955773141x141_2x.jpg" crc="4049753959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo299x20.png" crc="111868364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo299x20_2x.png" crc="4239636851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="braces-at-kids-dental-u30730-fr.jpg" crc="523095966" ref="index"/>
+    <file name="braces-at-kids-dental-u30730-fr_2x.jpg" crc="4084832505" ref="index"/>
+    <file name="beaver1-u15561-fr2.jpg" crc="250188667" ref="index"/>
+    <file name="beaver1-u15561-fr_2x2.jpg" crc="51873514" ref="index"/>
+    <file name="beaver2-u15562-fr2.jpg" crc="70164600" ref="index"/>
+    <file name="beaver2-u15562-fr_2x2.jpg" crc="3950485562" ref="index"/>
+    <file name="rock hyrax 6-crop-u346506.jpg" crc="229224342" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="rock hyrax 6-crop-u34650_2x6.jpg" crc="18070458" seo="true" ref="index">
+      <caption webpage="index" alt="这是一只蹄兔"/>
+    </file>
+    <file name="u34839-66.png" crc="496562528" ref="index"/>
+    <file name="u34839-6_2x6.png" crc="337456798" ref="index"/>
+    <file name="mmexport1516805955773138x138.jpg" crc="227673325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="35209852" seo="true" mt="1519832819939" redirect="true"/>
+</manifest>
